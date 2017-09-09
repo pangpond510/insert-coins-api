@@ -14,12 +14,12 @@
     "RoleMapping": {},
     "Role": {},
     "DieselData": {
-      "1": "{\"island\":\"island\",\"price\":45,\"application\":[\"for generating an electricity power\",\"for selling\"],\"amount\":120,\"date\":\"2017-09-09T11:23:46.519Z\",\"id\":1}",
-      "2": "{\"island\":\"island\",\"price\":40,\"application\":[\"for vehicle or machine\"],\"amount\":122,\"date\":\"2017-09-09T11:55:35.380Z\",\"id\":2}",
-      "3": "{\"island\":\"island2\",\"price\":46,\"application\":[\"for generating an electricity power\"],\"amount\":110,\"date\":\"2017-09-09T11:56:09.511Z\",\"id\":3}",
-      "4": "{\"island\":\"island2\",\"price\":50,\"application\":[\"for vehicle or machine\",\"for selling\"],\"amount\":230,\"date\":\"2017-09-09T11:56:50.340Z\",\"id\":4}",
-      "5": "{\"island\":\"island3\",\"price\":45,\"application\":[\"for vehicle or machine\",\"etc.\"],\"amount\":125,\"date\":\"2017-09-09T11:57:31.061Z\",\"id\":5}",
-      "6": "{\"island\":\"island\",\"price\":50,\"application\":[\"for generating an electricity power\",\"for vehicle or machine\",\"for selling\",\"etc.\"],\"amount\":400,\"date\":\"2017-09-09T12:13:27.557Z\",\"id\":6}"
+      "1": "{\"island\":\"island\",\"price\":45,\"application\":[\"for generating an electricity power\",\"for vehicle or machine\"],\"amount\":45,\"month\":9,\"year\":2017,\"id\":1}",
+      "2": "{\"island\":\"island\",\"price\":50,\"application\":[\"for generating an electricity power\"],\"amount\":500,\"month\":9,\"year\":2017,\"id\":2}",
+      "3": "{\"island\":\"island\",\"price\":44,\"application\":[\"for selling\"],\"amount\":435,\"month\":9,\"year\":2017,\"id\":3}",
+      "4": "{\"island\":\"island2\",\"price\":60,\"application\":[\"for selling\"],\"amount\":400,\"month\":9,\"year\":2017,\"id\":4}",
+      "5": "{\"island\":\"island2\",\"price\":63,\"application\":[\"for vehicle or machine\"],\"amount\":120,\"month\":9,\"year\":2017,\"id\":5}",
+      "6": "{\"island\":\"island3\",\"price\":59,\"application\":[\"for generating an electricity power\"],\"amount\":480,\"month\":9,\"year\":2017,\"id\":6}"
     }
   }
 }

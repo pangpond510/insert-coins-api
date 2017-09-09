@@ -24,8 +24,12 @@
       "type": "number",
       "required": true
     },
-    "date": {
-      "type": "date",
+    "month": {
+      "type": "number",
+      "required": true
+    },
+    "year": {
+      "type": "number",
       "required": true
     }
   },
